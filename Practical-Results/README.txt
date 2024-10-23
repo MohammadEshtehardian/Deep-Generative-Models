@@ -1,0 +1,1 @@
+PixelCNN is my model which has 6 gated convolution layers and trained with 20 epochs.
